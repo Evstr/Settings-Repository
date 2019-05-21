@@ -1,0 +1,7 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="Reload">
+      <action id="PackageFile" />
+    </macro>
+  </component>
+</application>
